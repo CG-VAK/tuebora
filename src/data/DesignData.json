@@ -1,0 +1,82 @@
+[
+    {
+      "name": "Samsung",
+      "noOfEmployees": "100-5000",
+      "industry": "IT",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "pincode": "560020",
+      "address": "Seshadripuram"
+    },
+    {
+      "name": "Sony",
+      "noOfEmployees": "10-500",
+      "industry": "CSE",
+      "city": "Chennai",
+      "state": "TN",
+      "country": "India",
+      "pincode": "560091",
+      "address": "North street"
+    },
+    {
+      "name": "Nokia",
+      "noOfEmployees": "100-5000",
+      "industry": "Manufacturing",
+      "city": "Arizona",
+      "state": "Phoenix",
+      "country": "USA",
+      "pincode": "560052",
+      "address": "Dead end road"
+    },
+    {
+      "name": "Apple",
+      "noOfEmployees": "1000-50000",
+      "industry": "Mobile",
+      "city": "Noida",
+      "state": "Delhi",
+      "country": "India",
+      "pincode": "560023",
+      "address": "Sector 23"
+    },
+    {
+      "name": "Amazon",
+      "noOfEmployees": "100-5000",
+      "industry": "IT",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "pincode": "560024",
+      "address": "Seshadripuram"
+    },
+    {
+      "name": "Google",
+      "noOfEmployees": "100-5000",
+      "industry": "IT",
+      "city": "newtown",
+      "state": "Hyderabad",
+      "country": "India",
+      "pincode": "560025",
+      "address": "New street"
+    },
+    {
+      "name": "Microsoft",
+      "noOfEmployees": "10000-500000",
+      "industry": "IT",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "pincode": "560026",
+      "address": "Seshadripuram"
+    },
+    {
+      "name": "Tesla",
+      "noOfEmployees": "100-5000",
+      "industry": "IT",
+      "city": "California",
+      "state": "CS",
+      "country": "USA",
+      "pincode": "60009",
+      "address": "Beach road"
+    }
+  ]

@@ -1,0 +1,35 @@
+/* src/Dashboard.css */
+.dashboard-container {
+    display: flex;
+    height: 100vh;
+   
+  }
+  
+  .sidebar {
+    width: 200px;
+    background-color: burlywood;
+    padding: 20px;
+  }
+  
+  .sidebar a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .page-content {
+    flex-grow: 1;
+    padding: 20px;
+    overflow-y: auto;
+  }
+  .active {
+    background-color: #f1f1f1; /* or any other styling you prefer */
+    font-weight: bold;
+  }
+
+  .content-container {
+    flex-grow: 1;
+    padding: 20px;
+  }

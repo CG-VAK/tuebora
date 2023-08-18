@@ -1,0 +1,14 @@
+{
+    "attributes": [
+      { "name": "id", "dataType": "number", "constraints": ["mandatory"] },
+      { "name": "firstName", "dataType": "string", "constraints": ["mandatory"] },
+      { "name": "lastName", "dataType": "string", "constraints": ["mandatory"] },
+      { "name": "email", "dataType": "string", "constraints": ["mandatory", "unique"] }
+    ],
+    "settings": {
+      "viewAttributes": ["id", "firstName", "lastName"],
+      "sortableColumns": ["id", "firstName"],
+      "searchableColumns": ["id", "firstName", "lastName"]
+    }
+  }
+  

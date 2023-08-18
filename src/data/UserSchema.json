@@ -1,0 +1,88 @@
+{
+    "id": "urn:com:tuebora:schemas:core:1.0:User",
+    "name": "User",
+    "description": "Core User",
+    "schema": "urn:scim:schemas:core:1.0",
+    "attributes": [
+      {
+        "key": "id",
+        "type": "string",
+        "name": "Id",
+        "cardView": false,
+        "gridView": false,
+        "search": false,
+        "sort": false
+      },
+      {
+        "key": "firstName",
+        "type": "string",
+        "name": "First name",
+        "cardView": true,
+        "gridView": true,
+        "search": true,
+        "sort": false
+      },
+      {
+        "key": "lastName",
+        "type": "string",
+        "name": "Last name",
+        "cardView": false,
+        "gridView": true,
+        "search": true,
+        "sort": false
+      },
+      {
+        "key": "email",
+        "required": true,
+        "name": "Email Address",
+        "cardView": true,
+        "gridView": true,
+        "search": true,
+        "sort": true
+      },
+      {
+        "key": "department",
+        "type": "string",
+        "name": "Department",
+        "cardView": true,
+        "gridView": true,
+        "search": true,
+        "sort": true
+      },
+      {
+        "key": "location",
+        "type": "string",
+        "name": "Location",
+        "cardView": true,
+        "gridView": true,
+        "search": true,
+        "sort": true
+      },
+      {
+        "key": "employmentType",
+        "type": "string",
+        "name": "Employment Type",
+        "cardView": true,
+        "gridView": true,
+        "search": true,
+        "sort": true
+      },
+      {
+        "key": "jobTitle",
+        "type": "string",
+        "required": true,
+        "name": "Job Title",
+        "cardView": true,
+        "gridView": true,
+        "search": true,
+        "sort": true
+      },
+      {
+        "key": "age",
+        "type": "integer",
+        "name": "Age of the employee",
+        "cardView": true,
+        "gridView": true
+      }
+    ]
+  }

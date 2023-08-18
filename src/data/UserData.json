@@ -1,0 +1,92 @@
+[
+    {
+      "firstName": "First",
+      "lastName": "One Last",
+      "email": "one@xanadu.com",
+      "department": "Retail Marketing",
+      "location": "Mysore2",
+      "employmentType": "Employee",
+      "age": "22",
+      "jobTitle": "Manager"
+    },
+    {
+      "firstName": "Second",
+      "lastName": "Second Last",
+      "email": "two@xanadu.com",
+      "department": "Sales",
+      "location": "Mysore",
+      "employmentType": "Manager",
+      "age": "23",
+      "jobTitle": "Senior Manager"
+    },
+    {
+      "firstName": "Third",
+      "lastName": "Third Last",
+      "email": "three@xanadu.com",
+      "department": "Marketing",
+      "location": "Hosur",
+      "employmentType": "Head",
+      "age": "24",
+      "jobTitle": "Senior Manager Retail"
+    },
+    {
+      "firstName": "Four",
+      "lastName": "Four Last",
+      "email": "four@xanadu.com",
+      "department": "Mobile Marketing",
+      "location": "Salem",
+      "employmentType": "Head1",
+      "age": "25",
+      "jobTitle": "Senior Retail Manager"
+    },
+    {
+      "firstName": "Five",
+      "lastName": "Five Last",
+      "email": "five@xanadu.com",
+      "department": "Funds Marketing",
+      "location": "Madurai",
+      "employmentType": "Head2",
+      "age": "26",
+      "jobTitle": "Junior Manager Retail"
+    },
+    {
+      "firstName": "Six",
+      "lastName": "Six Last",
+      "email": "six@xanadu.com",
+      "department": "Finanace Marketing",
+      "location": "Trichy",
+      "employmentType": "Employee1",
+      "age": "27",
+      "jobTitle": "Junior Manager"
+    },
+    {
+      "firstName": "Seven",
+      "lastName": "Seven Last",
+      "email": "seven@xanadu.com",
+      "department": "Business Marketing",
+      "location": "Dubai",
+      "employmentType": "Employee2",
+      "age": "28",
+      "jobTitle": "Junior Retail"
+    },
+    {
+      "firstName": "Eight",
+      "lastName": "Eight Last",
+      "email": "eight@xanadu.com",
+      "department": "Retail Business Marketing",
+      "location": "Bangalore",
+      "employmentType": "Employee3",
+      "age": "29",
+      "jobTitle": "Senior Manager Head"
+    },
+    {
+      "firstName": "Nine",
+      "lastName": "Nine Last",
+      "email": "nine@xanadu.com",
+      "department": "Sales Marketing",
+      "location": "Chennai",
+      "employmentType": "Employee4",
+      "age": "30",
+      "jobTitle": "Director"
+    }
+  ]

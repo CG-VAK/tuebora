@@ -1,0 +1,14 @@
+{
+    "attributes": [
+      { "name": "id", "dataType": "number", "constraints": ["mandatory"] },
+      { "name": "name", "dataType": "string", "constraints": ["mandatory"] },
+      { "name": "industry", "dataType": "string", "constraints": ["mandatory"] },
+      { "name": "location", "dataType": "string", "constraints": ["mandatory"] }
+    ],
+    "settings": {
+      "viewAttributes": ["id", "name", "industry"],
+      "sortableColumns": ["id", "name"],
+      "searchableColumns": ["id", "name", "industry"]
+    }
+  }
+  

@@ -1,0 +1,77 @@
+{
+    "id": "urn:com:tuebora:schemas:core:1.0:company",
+    "name": "Company",
+    "description": "Company",
+    "schema": "urn:scim:schemas:core:1.0",
+    "attributes": [
+      {
+        "name": "Name",
+        "key": "name",
+        "type": "string",
+        "cardView": true,
+        "gridView": true,
+        "search": true,
+        "sort": true
+      },
+      {
+        "name": "No of Employees",
+        "key": "noOfEmployees",
+        "type": "string",
+        "cardView": true,
+        "gridView": true
+      },
+      {
+        "name": "Industry",
+        "key": "industry",
+        "type": "string",
+        "cardView": true,
+        "gridView": true,
+        "search": true,
+        "sort": true
+      },
+      {
+        "name": "City",
+        "key": "city",
+        "type": "string",
+        "cardView": true,
+        "gridView": true,
+        "search": true,
+        "sort": true
+      },
+      {
+        "name": "State",
+        "key": "state",
+        "type": "string",
+        "cardView": true,
+        "gridView": true,
+        "search": true,
+        "sort": true
+      },
+      {
+        "name": "Country",
+        "key": "country",
+        "type": "string",
+        "cardView": true,
+        "gridView": true,
+        "search": true,
+        "sort": true
+      },
+      {
+        "name": "Pincode",
+        "key": "pincode",
+        "type": "string",
+        "cardView": true,
+        "gridView": true,
+        "sort": true
+      },
+      {
+        "name": "Address",
+        "key": "address",
+        "type": "string",
+        "cardView": true,
+        "gridView": true,
+        "search": true,
+        "sort": true
+      }
+    ]
+  }
